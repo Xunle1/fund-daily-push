@@ -10,4 +10,4 @@ $ yarn start
 
 `fund.json`为基金编号
 
-如果需要 sever 酱推送，请在 github secrets 填入你的 SCKEY，每日 14 点推送，github action 可能会有一些延迟
+fork 本仓库之后 开启 github action 并在 github secrets 填入你的 server 酱的 SCKEY，默认每日 14 点推送，github action 可能会有一些延迟
